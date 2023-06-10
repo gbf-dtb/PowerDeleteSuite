@@ -540,7 +540,7 @@ var pd = {
                         }
                         pd.actions.children.handleSingle();
                     });
-                }, 5001);
+                }, 5100);
             } else {
                 pd.task.items[0].pdEdited = true;
                 pd.actions.children.handleSingle();
