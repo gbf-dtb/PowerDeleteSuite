@@ -1,4 +1,13 @@
-# Power Delete Suite
+
+# Power Delete Suite fork
+
+### !This is a fork, not [the original by j0be](https://github.com/j0be/PowerDeleteSuite)! All credits go to j0be.
+
+The only thing added is a 5.1s timer to get past the [1 edit per 5 seconds rate limit that Reddit added](https://old.reddit.com/r/redditdev/comments/miqx0k/on_the_new_rate_limit_for_editing_comments/), as many comments will fail to get edited since the original had not been updated to reflect this rate limit.
+
+The button below take you to a copy of j0be's pen with the script updated to this fork's instead.
+
+***
 
  Why use the Power Delete Suite instead of the other mass reddit deletion scripts?
 
@@ -25,9 +34,4 @@
  
 ## Installation 
  
- [![Install PowerDeleteSuite](https://i.imgur.com/c0s8Mm2.png)](https://codepen.io/j0be/full/WMBWOW/)
- 
-## Bugs / Issues?
- 
-Feel free to subscribe to [/r/PowerDeleteSuite/](https://www.reddit.com/r/PowerDeleteSuite/) where I will make a post every time that I make an update to the script!
- 
+ [![Install PowerDeleteSuite](https://i.imgur.com/mBX2HTk.png)](https://codepen.io/gbf-dtb/full/RwqPLge)
