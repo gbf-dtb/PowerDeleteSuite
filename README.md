@@ -5,9 +5,10 @@
 
 All credits go to j0be.
 
-The only thing added is a 5.1s timer to get past the [1 edit per 5 seconds rate limit that Reddit added](https://old.reddit.com/r/redditdev/comments/miqx0k/on_the_new_rate_limit_for_editing_comments/), as many comments will fail to get edited since the original had not been updated to reflect this rate limit.
+The only thing added is a 5.1s timer to get past the [1 edit per 5 seconds rate limit that Reddit added](https://old.reddit.com/r/redditdev/comments/miqx0k/on_the_new_rate_limit_for_editing_comments/), as many comments will fail to get edited since the original had not been updated to reflect this rate limit. *This fork will not be updated.*
 
-The button below take you to a copy of j0be's pen with the script updated to this fork's instead.
+The button below take you to a copy of j0be's pen with the script updated to this fork's instead.  
+*Please* check the source code of the pen before you run the bookmarklet, to ensure I'm not adding in malicious crap into it.
 
 ***
 
