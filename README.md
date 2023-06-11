@@ -1,7 +1,9 @@
 
 # Power Delete Suite fork
 
-### !This is a fork, not [the original by j0be](https://github.com/j0be/PowerDeleteSuite)! All credits go to j0be.
+### !This is a fork, not [the original by j0be](https://github.com/j0be/PowerDeleteSuite)!
+
+All credits go to j0be.
 
 The only thing added is a 5.1s timer to get past the [1 edit per 5 seconds rate limit that Reddit added](https://old.reddit.com/r/redditdev/comments/miqx0k/on_the_new_rate_limit_for_editing_comments/), as many comments will fail to get edited since the original had not been updated to reflect this rate limit.
 
